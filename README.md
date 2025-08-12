@@ -7,7 +7,12 @@ We use SQL queries ranging from beginner-level to complex analytical queries to 
 
 The goal is to help stakeholders make **data-driven decisions** for improving sales and customer satisfaction.
 
----
+## 📄 Full Report
+
+[![PDF Preview](preview.png)](https://github.com/Fathimasaif141/Pizza_sales_Analysis_SQL-Project/raw/main/SQL%20Queries.pdf)
+
+*Click the image to view the full Pizza Sales Analysis Report (PDF).*
+
 
 ## 📊 Dataset
 The dataset contains the following tables:
